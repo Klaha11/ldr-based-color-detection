@@ -1,0 +1,1 @@
+# ldr-based-color-detection
